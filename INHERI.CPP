@@ -28,6 +28,7 @@ class Test2:public Test
 	   {
 	     pointer();
 	     getter();
+
 	   }
 
 
